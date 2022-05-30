@@ -30,4 +30,10 @@ int main() {
     return 0;
 }
 
+int volume(int x, int y, int z){
+
+  int totvol=x*y*z;
+  return totvol;
+  
+}
 // Implement the Volume() function here
